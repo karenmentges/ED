@@ -1,5 +1,5 @@
 /*
- * Tarefa de laboratorio 09 - Avaliacao 1 - Parte 2 - Deque
+ * Tarefa de laboratorio 09 - Deque
  *
  * GEX605 AB 2020/1
  *
