@@ -3,8 +3,7 @@
  *
  * GEX605 AB 2020/1
  *
- * Nome:      Karen Ruver Mentges
- * Matricula: 1921100003
+ * Nome: Karen Ruver Mentges
  *
  */
 
